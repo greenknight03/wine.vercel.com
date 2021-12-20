@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 
-const WinePage: NextPage = () => {
+const Port: NextPage = () => {
   return (
     <div>
     <h1>port</h1>
@@ -8,4 +8,4 @@ const WinePage: NextPage = () => {
   )
 }
 
-export default WinePage;
+export default Port;
