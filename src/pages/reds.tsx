@@ -1,11 +1,11 @@
 import React from "react";
 import { useRouter } from "next/router";
-const User = () => {
+const WinePage = () => {
   const router = useRouter();
 
   const { id } = router.query;
 
-  return <div>{id} 번 user의 페이지 입니다.</div>;
+  return <div>{id} 니가 왜 여기서나와 </div>;
 };
 
-export default User;
+export default WinePage;
