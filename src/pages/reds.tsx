@@ -1,11 +1,11 @@
-import type { NextPage } from "next";
+import React from "react";
+import { useRouter } from "next/router";
+const User = () => {
+  const router = useRouter();
 
-const Reds = () => {
-  return (
-    <div>
-      <h1>red Wine</h1>
-    </div>
-  )
-}
+  const { id } = router.query;
 
-export default Reds;
+  return <div>{id} 번 user의 페이지 입니다.</div>;
+};
+
+export default User;
