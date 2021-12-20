@@ -3,7 +3,7 @@ import type { NextPage } from "next";
 const WinePage: NextPage = () => {
   return (
     <div>
-    <h1>red Wine</h1>
+    <h1>reds</h1>
     </div>
   )
 }
