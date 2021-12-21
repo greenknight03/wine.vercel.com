@@ -1,11 +1,12 @@
 import type { NextPage } from "next";
 
-const Reds: NextPage = () => {
+const RedsWinePage: NextPage = () => {
+  
   return (
     <div>
-    <h1>reds</h1>
+      <h1>Wine</h1>
     </div>
   )
 }
 
-export default Reds;
+export default RedsWinePage;

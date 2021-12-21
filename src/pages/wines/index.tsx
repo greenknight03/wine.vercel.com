@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 
-const RoseWinePage: NextPage = () => {
+const WinePage: NextPage = () => {
   return (
     <div>
       <h1>Wine</h1>
@@ -8,4 +8,4 @@ const RoseWinePage: NextPage = () => {
   )
 }
 
-export default RoseWinePage;
+export default WinePage;
