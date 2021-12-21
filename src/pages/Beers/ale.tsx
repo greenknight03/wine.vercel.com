@@ -18,7 +18,7 @@ const AleBeerPage: NextPage = () => {
           return (
             <BeerCard key={`${name}-beer-list-${beerData.id}`} beerData={beerData} />
           )
-        })}
+        })} 
       </main>
     </div>
   )
