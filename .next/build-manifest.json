@@ -25,15 +25,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/wines/dessert": [
+    "/wines/reds": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/wines/dessert.js"
+      "static/chunks/pages/wines/reds.js"
     ],
     "/wines/rose": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/wines/rose.js"
+    ],
+    "/wines/sparkling": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/wines/sparkling.js"
     ]
   },
   "ampFirstPages": []
