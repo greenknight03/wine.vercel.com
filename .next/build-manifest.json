@@ -25,10 +25,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/wines/reds": [
+    "/beers/ale": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/wines/reds.js"
+      "static/chunks/pages/beers/ale.js"
+    ],
+    "/beers/stouts": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/beers/stouts.js"
+    ],
+    "/wines/port": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/wines/port.js"
     ],
     "/wines/rose": [
       "static/chunks/webpack.js",
