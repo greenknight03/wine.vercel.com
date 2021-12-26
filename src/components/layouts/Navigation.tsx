@@ -1,5 +1,3 @@
-// html 작업 
-// 네비케이ㅕ션도 constanrs의 index.ts에 라우터스라는 이름으로 뻼 추상화 데이터화 객체화 들어감? 
 import Link from "next/link"
 import { ROUTES } from "../../constants";
 
