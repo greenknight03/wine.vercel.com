@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/beers/ale": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/beers/ale.js"
-    ],
     "/wines/reds": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
