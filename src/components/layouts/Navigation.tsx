@@ -5,7 +5,7 @@ interface ROUTE {
   ID: number;
   PATH: string;
   LABEL: string;
-  SUBS?: Array<ROUTE>;
+  SUBS?: Array<ROUTE>
 }
 
 export const Navigation = () => {
